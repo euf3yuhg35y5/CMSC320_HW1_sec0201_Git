@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: To keep track of our changes and be able to revert them if something goes wrong between versions. It's also good for collaboration between multiple people
+since you can use branches and pull requests to work on a project at the same time.
