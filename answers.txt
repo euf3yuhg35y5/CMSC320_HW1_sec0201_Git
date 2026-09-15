@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to game development. For example, you could run experiments for different changes in your game
 and see how they impact engagement and monetization by analyzing the data, and then make a decision on if that is a good or bad change.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging will create a new merge commit with all of the changes, but rebasing will rewrite the entire history commit by commit on top of the branch making it easier to view the history.
