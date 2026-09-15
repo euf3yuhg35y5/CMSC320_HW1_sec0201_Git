@@ -2,3 +2,8 @@ Q1: Why might we consider using Git?
 
 Answer: To keep track of our changes and be able to revert them if something goes wrong between versions. It's also good for collaboration between multiple people
 since you can use branches and pull requests to work on a project at the same time.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to game development. For example, you could run experiments for different changes in your game
+and see how they impact engagement and monetization by analyzing the data, and then make a decision on if that is a good or bad change.
