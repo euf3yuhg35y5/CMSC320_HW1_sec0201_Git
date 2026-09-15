@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to game development. For example, you could run experiments for different changes in your game
+and see how they impact engagement and monetization by analyzing the data, and then make a decision on if that is a good or bad change.
